@@ -1,0 +1,22 @@
+{
+  "name": "La Antigua de Don Chencho",
+  "short_name": "La Antigua",
+  "description": "Sistema de Inventario - Panadería La Antigua de Don Chencho",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf6e3",
+  "theme_color": "#d977006",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/bakery.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/bakery.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
